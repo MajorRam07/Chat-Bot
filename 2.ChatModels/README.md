@@ -1,0 +1,2 @@
+
+A lightweight Python script demonstrating how to run open-weight chat models locally on your machine using LangChain, Hugging Face Transformers, and PyTorch—completely free and without API key subscription limits.
